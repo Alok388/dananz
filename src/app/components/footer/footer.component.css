@@ -2,8 +2,8 @@
     display: flex;
     width: 100%;
     gap: 10rem;
-    margin-top: 5rem;
-}
+    margin: 5rem 0;
+}   
 
 .footer-logo-container{
 
@@ -76,6 +76,7 @@ line-height: 1.8rem;
 }
 
 .icon-container{
+    margin-top: 1.2rem;
     display: flex;
     gap: 2.8rem;
     position: relative;
@@ -122,6 +123,12 @@ line-height: 1.8rem;
         margin: 0 5rem;
     }
 
+    .footer-circle-text{
+        
+        gap: 0.4rem;
+        
+    }
+
     .footer-logo-container{
         display: flex;
         gap: 2rem;
@@ -161,6 +168,10 @@ line-height: 1.8rem;
        
          margin-left: 4rem;
        
+    }
+
+    .footer-logo-text{
+        font-size: 1.8rem;
     }
 
   };

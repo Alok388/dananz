@@ -30,7 +30,7 @@
     margin-top: 3.3rem;
     margin-bottom: 6.25rem;
    width: 100%;
-   height: 35rem;
+   height: 50rem;
    background: url('../../../assets/images/main-hero.png');
    background-size: cover;
    background-position: center;
@@ -98,3 +98,16 @@
     }
  
   };
+
+
+
+  @media (max-width:56.25em ){
+    .hero-img-container{
+
+       
+       height: 40rem;
+       background-color: aqua;
+      
+      
+    }
+  }

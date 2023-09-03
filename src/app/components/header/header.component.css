@@ -156,5 +156,7 @@ font-size: 2rem;;
     
     .btn-nav {
         padding: 0.8rem 1rem;
+        background-color: #333;
+        border: none;
     }
 }
